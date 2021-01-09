@@ -8,6 +8,9 @@
 
 - **运行前需要bypassUAC后的管理员权限权限**
 
+### 说明
+**由于代码比较简单，已经编译了.Net 3.5版本的可执行文件，需要的可以直接到[releases](https://github.com/Adminisme/SharpRDPLog/releases)下载，下面主要分享和提供思路供大家参考。**
+
 #### 1、查看本地rdp TCP端口
 
 原理：通过读取系统注册表信息获取rdp TCP端口。

@@ -1,6 +1,6 @@
 # SharpRDPLog
 
-![Author](https://img.shields.io/badge/Author-Trim-blueviolet)  ![Bin](https://img.shields.io/badge/SharpRDPLog-Bin-ff69b4)  ![build](https://img.shields.io/badge/build-passing-green.svg)  ![](https://img.shields.io/badge/language-C#-blue.svg)
+![Author](https://img.shields.io/badge/Author-Trim-blueviolet)  ![Bin](https://img.shields.io/badge/SharpRDPLog-Bin-ff69b4)  ![build](https://img.shields.io/badge/build-passing-green.svg)  ![](https://img.shields.io/badge/language-C%20Sharp-blue.svg)
 
 ### 简介
 
